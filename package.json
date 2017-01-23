@@ -1,10 +1,32 @@
 {
   "name": "postcss-compass",
   "version": "0.0.1",
-  "description": "compass mixins with libsass",
+  "description": "PostCSS plugin for migration from Compass to Libsass",
   "main": "index.js",
-  "author": "Eugene Tereshchenko",
-  "license": "MIT",
+  "homepage": "https://github.com/Jman/postcss-compass",
+  "author": {
+    "name": "Eugene Tereshchenko",
+    "email": "i@jman.info"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jman/postcss-compass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jman/postcss-compass/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Jman/postcss-compass/blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": [
+    "postcss",
+    "compass",
+    "libsass",
+    "postcss-plugin"
+  ],
   "dependencies": {
     "image-size": "^0.5.1",
     "postcss": "^5.2.11"
