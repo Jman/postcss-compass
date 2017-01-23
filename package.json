@@ -1,0 +1,12 @@
+{
+  "name": "postcss-compass",
+  "version": "0.0.1",
+  "description": "compass mixins with libsass",
+  "main": "index.js",
+  "author": "Eugene Tereshchenko",
+  "license": "MIT",
+  "dependencies": {
+    "image-size": "^0.5.1",
+    "postcss": "^5.2.11"
+  }
+}
